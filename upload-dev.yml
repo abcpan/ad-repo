@@ -2,5 +2,5 @@ server:
   port: 8081
 test:
   name: upload
-  type: service
+  type: common-service
 
